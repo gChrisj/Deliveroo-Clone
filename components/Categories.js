@@ -11,7 +11,7 @@ const  Categories = () => {
         paddingHorizontal: 15,
         paddingTop: 15
     }}>
-        {/* Category Card */}
+        {/* Category Cards */}
         <CategoryCard imgUrl='https://links.papareact.com/gn7' title="testing"/>
         <CategoryCard imgUrl='https://links.papareact.com/gn7' title="testing"/>
         <CategoryCard imgUrl='https://links.papareact.com/gn7' title="testing"/>
